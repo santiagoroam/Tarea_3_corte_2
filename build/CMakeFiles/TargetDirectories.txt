@@ -1,0 +1,6 @@
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/auth_manager.dir
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/exam_tracker.dir
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/crypto_square.dir
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/bank_account.dir
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/edit_cache.dir
+C:/Users/santi/OneDrive/Desktop/Tarea_3_corte_2/build/CMakeFiles/rebuild_cache.dir
